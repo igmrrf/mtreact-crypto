@@ -44,7 +44,7 @@ const Home = () => {
 						<div
 							id="about__card"
 							className="card about__card"
-							data-aos="fade-left"
+							data-aos="fade-in"
 						>
 							<img
 								src={AboutImg}
@@ -89,6 +89,7 @@ const Home = () => {
 							src={GlobeImg}
 							alt="globe_img"
 							className="globe_img"
+							data-aos="flip-left"
 						/>
 					</div>
 				</div>
@@ -100,6 +101,7 @@ const Home = () => {
 							src={CryptoDevice}
 							className="img-fluid crypto_explainedImg"
 							alt="CryptoDevice"
+							data-aos="flip-right"
 						/>
 					</div>
 					<div className="col-xl-8 col-lg-8 col-md-7 col-12">
