@@ -1,0 +1,1080 @@
+
+@media (max-width: 1200px){
+	.universe-wrapper{
+	    padding: 60px;
+	    padding-top: 50px;
+	}
+	#universe-wrappercol h4{
+	    font-size: 2.8rem;
+	}
+	#universe-wrappercol p#description{
+	    font-size: 15px;
+	    padding-left: 10px;
+	    width: 65%;
+	}
+	#universe-wrappercol .about__card{
+	    border-radius: 1rem;
+	}
+	#universe-wrappercol .about__card img{
+	    border-radius: 1rem;
+	    height: 250px;
+	}
+	#universe-wrappercol .about__card p{
+	    font-size: 30px;
+	    font-weight: 500!important;
+	    letter-spacing: 0px;
+	    padding-bottom: 50px;
+	}
+	.about-crypto{
+	    padding: 100px;
+	    padding-bottom: 70px;
+	    padding-right: 20px;
+	    padding-left: 20px;
+	    justify-content: flex-start!important;
+	}
+	#about-cryptocol h4{
+	    font-size: 2.8rem;
+	}
+	#about-cryptocol p#description{
+	    padding-left: 10px;
+	    font-size: 15px;
+	}
+	.crypto-explained{
+	    padding-top: 70px;
+	}
+	.crypto-explained h4{
+	    font-size: 2.8rem;
+	}
+	.crypto-explained p#description{
+	    font-size: 15px;
+	}
+	.crypto_benefitscard p{
+	    font-size: 14px;
+	}
+	.cryptocrat-advantages{
+	    padding: 50px;
+	}
+	.cryptocrat-advantages div.card{
+	    padding: 20px;
+	    padding-top: 100px;
+	    padding-bottom: 50px;
+	}
+	.cryptocrat-advantages div.card h4{
+	    font-size: 1.5rem; 
+	}
+	.blog_header{
+	    padding: 200px;
+	    padding-top: 100px;
+	    padding-bottom: 100px;
+	}
+	.blog_header h1{
+	    font-size: 2.6rem;
+	}
+	.blog_header p{
+	    padding: 130px;
+	    padding-top: 10px;
+	    padding-bottom: 10px;
+	}
+	.blog_header div.card input{
+	    font-size: 14px;
+	}
+	.blog_header div.card select{
+	    font-size: 14px;
+	}
+	.blog_header div.card button{
+	    padding: 5px 17px 5px 17px;
+	    font-size: 15px;
+	}
+	.blogcard_container{
+	    margin: 0;
+	    box-shadow: none;
+	    padding-left: 60px;
+	    padding-right: 60px;
+	}
+}
+
+@media (max-width: 1150px){
+	.custom__header div.header{
+	    padding: 20px;
+	    padding-right: 10px;
+	    padding-top: 80px;
+	}
+	#header_text1{
+	    font-size: 55px;
+	}
+	#header_text2{
+	    font-size: 50px;
+	}
+	#subheader_text{
+	    font-size: 17px;
+	    padding: 40px;
+	    padding-top: 10px;
+	    padding-bottom: 10px;
+	}
+	.custom__nav .navbar-brand{
+	    font-size: 25px;
+	}
+	.custom__nav .navbar-brand span{
+	    font-size: 22px;
+	}
+	.custom__nav .nav-item a{
+	    padding-right: 17px;
+	    font-size: 12px;
+	}
+	.nav-item{
+	    margin-left: 5px;
+	    margin-right: 5px;
+	}
+	.newestblog_card img.blogpost_img{
+	    width: 500px;
+	}
+	.newestblog_card .newestblog_cardbody{
+	    padding: 40px;
+	}
+}
+
+@media (max-width: 1100px){
+	.custom__header div.header{
+		padding: 10px;
+		padding-top: 20px;
+	}
+	.custom__header .mobiledevice_heroImg{
+	    padding-top: 20px;
+	}
+}
+
+@media (max-width: 1050px){
+	.cryptocrat-advantages{
+	    padding: 20px;
+	}
+	.cryptocrat-advantages div.card{
+	    padding: 0px;
+	    padding-top: 100px;
+	    padding-bottom: 50px;
+	}
+	.cryptocrat-advantages div.card h4{
+	    font-size: 1.4rem; 
+	}
+	.cryptocrat-advantages div.card p{
+	    font-size: 15px;
+	}
+}
+
+@media (max-width: 1034px){
+	.custom__nav{
+		padding: 5px;
+	    padding-left: 5px;
+	    padding-right: 5px;
+	}
+}
+
+@media (max-width: 1025px){
+	.custom__nav{
+		padding: 5px;
+	    padding-left: 10px;
+	    padding-right: 10px;
+	}
+	.custom__nav .navbar-brand{
+	    font-size: 20px;
+	    padding-left: 10px;
+	    padding-right: 10px;
+	}
+	.custom__nav .navbar-brand span{
+	    font-size: 18px;
+	}
+	.custom__nav .nav-item a{
+	    padding: 8px;
+	    padding-bottom: 9px;
+	    padding-left: 10px;
+	    padding-right: 10px;
+	    font-size: 11px;
+	}
+	.nav-item{
+	    margin-left: 5px;
+	    margin-right: 5px;
+	}
+	#header_text1{
+	    font-size: 45px;
+	    letter-spacing: 3px;
+	}
+	#header_text2{
+	    font-size: 40px;
+	    letter-spacing: 3px;
+	    padding: 0px;
+	}
+	#subheader_text{
+	    font-size: 15px;
+	}
+	.custom__header .mobiledevice_heroImg{
+	    height: 350px;
+	}
+	.custom__header .mobiledevice_heroImg img{
+	    width: 100%;
+	    height: 100%;
+	}
+	.universe-wrapper{
+	    padding: 20px;
+	    padding-top: 0px;
+	    padding-bottom: 50px;
+	}
+	#universe-wrappercol h4{
+	    font-size: 2.5rem;
+	    line-height: 50px;
+	}
+	#universe-wrappercol .about__card p{
+	    text-align: left;
+	    padding: 30px;
+	}
+	.helpcenter_bodycard h1{
+	    font-size: 2.4rem;
+	    padding: 0px;
+	}
+	.helpcenter_bodycard p{
+	    font-size: 0.9rem;
+	}
+	.helpcenter_bodycard form#helpcenter_form input{
+	    font-size: 14px;
+	}
+	.customhelp_card{
+	    padding: 15px;
+	    padding-top: 50px;
+	    width: 170px;
+	}
+}
+
+@media (max-width: 991px){
+	.privacy_header{
+	    padding-top: 90px;
+	    padding-bottom: 90px;
+	}
+	.privacy_header h1{
+	    font-size: 2.9rem;
+	}
+	.crypto_benefitscard{
+	    border-radius: 1.1rem;
+	    padding: 1rem;
+	    padding-top: 0.5rem;
+	    padding-bottom: 0.5rem;
+	    margin-bottom: 20px;
+	}
+	.crypto-explained h4{
+	    font-size: 2.5rem;
+	}
+	.crypto-explained p#description{
+	    margin-top: -15px;
+	}
+	#auth_image_col{
+		display: none;
+	}
+	h1#auth__brand{
+		display: block;
+	}
+	.blog_header{
+	    padding: 80px;
+	    padding-left: 130px;
+	    padding-right: 130px;
+	}
+	.blog_header h1{
+	    font-size: 2.5rem;
+	}
+	.blogcard_container{
+	    margin: 0;
+	    box-shadow: none;
+	    padding-left: 60px;
+	    padding-right: 60px;
+	}
+	.blog_header div.card{
+	    margin-top: 2rem;
+	}
+	.newestblog_card img.blogpost_img{
+	    width: 450px;
+	    height: 280px;
+	}
+	.newestblog_card .newestblog_cardbody{
+	    padding: 25px;
+	}
+	.newestblog_card .newestblog_cardbody p{
+	    font-size: 1.1rem;
+	}
+	.newestblog_card .newestblog_cardbody span#description{
+	    padding-top: 10px;
+	    padding-bottom: 30px;
+	    font-size: 14px;
+	}
+	.merchitems_card img{
+	    height: 180px;
+	}
+}
+
+@media (max-width: 980px){
+	.about-crypto{
+	    padding: 70px;
+	    padding-right: 10px;
+	    padding-left: 10px;
+	}
+	#about-cryptocol h4{
+	    font-size: 2.5rem;
+	    line-height: 60px;
+	}
+	#about-cryptocol p#description{
+	    font-size: 15px;
+	    margin-top: -15px;
+	}
+	#about-cryptocol a{
+	    padding: 10px;
+	    padding-left: 25px;
+	    padding-right: 25px;
+	    font-size: 14px;
+	    border-radius: 3px;
+	    margin-left: 15px;
+	}
+}
+
+@media (max-width: 920px){
+	.crypto_benefitscard{
+	    margin-bottom: 15px;
+	}
+	.crypto-explained h4{
+	    font-size: 2.4rem;
+	    line-height: 45px;
+	}
+	.crypto-explained{
+	    padding-top: 50px;
+	}
+	.cryptocrat-advantages{
+	    padding: 0px;
+	    padding-top: 50px;
+	}
+	.cryptocrat-advantages div.card h4{
+	    font-size: 1.4rem; 
+	}
+	.cryptocrat-advantages div.card p{
+	    font-size: 14px;
+	}
+}
+
+@media (max-width: 894px){
+	.custom__nav nav#first{
+	    width: 55%;
+	}
+	.newestblog_card img.blogpost_img{
+	    width: 420px;
+	    height: 250px;
+	}
+	.newestblog_card .newestblog_cardbody{
+	    padding: 20px;
+	}
+	.blogcard_container{
+	    padding-left: 20px;
+	    padding-right: 20px;
+	}
+}
+
+@media (max-width: 885px){
+	.custom__header .mobiledevice_heroImg{
+	    width: 45%;
+	}
+	.cryptocrat-advantages{
+	    padding: 0px;
+	    padding-top: 50px;
+	    padding-bottom: 50px;
+	}
+	.about__header h1{
+	    padding: 40px;
+	    font-size: 2.9rem;
+	}
+	.about__header img{
+	    width: 75%;
+	}
+	.about_contentdiv h1{
+	    font-size: 2.5rem;
+	}
+	.about_contentdiv p{
+	    font-size: 15px;
+	}
+	.about__journeydiv h1{
+	    font-family: var(--font-head);
+	    font-size: 2.5rem;
+	    color: var(--accent-color);    
+	}
+	.about__journeydiv p{
+	    font-size: 15px; 
+	}
+	.about__ceodiv .columns:nth-child(2) p{
+	    font-size: 14px;
+	    line-height: 30px;
+	}
+	.about__ceodiv .columns:nth-child(2) p span{
+	    width: 350px;
+	    font-size: 25px;
+	}
+	.about__ceodiv .columns:nth-child(2) p span i{
+	    font-size: 15px;
+	    margin-top: -5px;
+	}
+}
+
+@media (max-width: 800px){
+	.custom__nav nav#first{
+	    width: 50%;
+	}
+	.custom__header{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	#header_text1{
+	    font-size: 40px;
+	}
+	#header_text2{
+	    font-size: 35px;
+	}
+	.custom__header div.header{
+		padding: 0px;
+		padding-top: 10px;
+	}
+	.custom__header .mobiledevice_heroImg{
+	    padding-top: 10px;
+	}
+	.custom__nav .nav-item a{
+		font-family: var(--proxima);
+	}
+	.helpcenter_container{
+		padding: 20px;
+		padding-bottom: 50px;
+	}
+	.helpcenter_bodycard{
+	    padding: 10px;
+	}
+	.helpcenter_bodycard h1{
+	    font-size: 2.1rem;
+	}
+	.helpcenter_bodycard p{
+	    font-size: 0.8rem;
+	}
+	.customhelp_card{
+	    padding-top: 40px;
+	    width: 180px;
+	}
+	.newestblog_card img.blogpost_img{
+	    width: 400px;
+	    height: 250px;
+	}
+	.newestblog_card .newestblog_cardbody{
+	    padding: 15px;
+	}
+	.newestblog_card .newestblog_cardbody span#description{
+	    font-size: 13px;
+	}
+	.merchcustom__header{
+	    padding: 30px;
+	}
+}
+
+@media (max-width: 768px){
+	.custom__header .mobiledevice_heroImg{
+		display: none;
+	}
+	#header_text1{
+	    font-size: 50px;
+	}
+	#header_text2{
+	    font-size: 45px;
+	}
+	.custom__nav nav#first, .custom__nav nav#second{
+	    display: none;
+	}
+	.custom__nav nav#third{
+		display: block;
+	}
+	.custom__nav nav#third span{
+		font-size: 25px;
+		color: var(--aliceblue);
+		margin-right: -10px;
+	}
+	#universe-wrappercol .about__card img{
+	    height: 230px;
+	}
+	.about-crypto{
+	    padding: 30px;
+	    padding-right: 0px;
+	    padding-left: 0px;
+	}
+	#about-cryptocol h4{
+	    font-size: 2.3rem;
+	    line-height: 50px;
+	}
+	#about-cryptocol p#description{
+	    font-size: 14px;
+	}
+	#about-cryptocol a{
+	    padding-left: 30px;
+	    padding-right: 30px;
+	    font-size: 13px;
+	    border-radius: 3px;
+	    margin-left: 10px;
+	}
+	.crypto_explainedImg{
+		display: none;
+	}
+	.crypto-explained h4{
+	    font-size: 2.7rem;
+	    line-height: 50px;
+	}
+	.crypto-explained{
+	    padding: 50px;
+	}
+	.privacy_header{
+	    padding-top: 50px;
+	    padding-bottom: 50px;
+	}
+	.privacy_header h1{
+	    font-size: 2.6rem;
+	}
+	.privacydiv_container{
+	    padding-top: 50px;
+	    padding-bottom: 50px;
+	    padding-left: 10px;
+	    padding-right: 10px;
+	}
+	.single_privacy_div h2{
+	    font-size: 30px;
+	}
+	.single_privacy_div p{
+	    font-size: 14px; 
+	}
+	.privacy_listingcontainer{
+	    padding-top: 50px;
+	}
+	.privacy_listingcard{
+	    border-radius: 1rem;
+	    padding: 2rem;
+	    box-shadow: none;
+	}
+	.privacy_listingcard h2{
+	    font-size: 28px;
+	}
+	.privacy_listingcard p{
+	    font-size: 14px;
+	}
+	.blog_header{
+	    padding: 70px;
+	    padding-top: 50px;
+	}
+	.blog_header h1{
+	    font-size: 2.3rem;
+	}
+	.blog_header p{
+		font-size: 14px;
+		padding: 50px;
+	    padding-top: 10px;
+	    padding-bottom: 0px;
+	}
+	.blog_header div.card{
+	    margin-top: 2rem;
+	}
+	.newestblog_card a#content{
+	    --tw-bg-opacity: 1;
+	    --tw-shadow: 0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);
+	    box-shadow: var(--tw-ring-offset-shadow,0 0 #0000),
+	        var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);
+	    display: block!important;
+	    background-color: #ffffff;
+	}
+	.newestblog_card img.blogpost_img{
+		width: 100%;
+		height: 300px;
+	}
+}
+
+@media (max-width: 767px){
+	.about__ceodiv .columns img{
+	    width: 60%;
+	    height: 400px;
+	    object-fit: cover;
+	    object-position: bottom;
+	}
+}
+
+@media (max-width: 730px){
+	.cryptocrat-advantages div.card h4{
+	    font-size: 1.2rem; 
+	    line-height: 30px;
+	}
+	.cryptocrat-advantages div.card p{
+	    font-size: 13px;
+	}
+}
+
+@media (max-width: 650px){
+	.privacy_header h1{
+	    font-size: 2.4rem;
+	}
+	.privacydiv_container{
+	    padding-left: 0px;
+	    padding-right: 0px;
+	}
+	.single_privacy_div h2{
+	    font-size: 25px;
+	}
+	.single_privacy_div p{
+	    font-size: 13px; 
+	}
+	.privacy_listingcontainer{
+	    padding-top: 30px;
+	}
+	.privacy_listingcard h2{
+	    font-size: 24px;
+	}
+	.privacy_listingcard p{
+	    font-size: 13px;
+	}
+	.blogcard_container{
+	    padding-left: 15px;
+	    padding-right: 15px;
+	}
+	.notfound__card div:first-child img{
+	    width: 30%;
+	    margin-bottom: 0px;
+	}
+	.notfound__card div:first-child h3{
+	    font-size: 50px;
+	}
+}
+
+@media (max-width: 600px){
+	.cryptocrat-advantages div.card h4{
+	    font-size: 0.9rem;
+	}
+	.cryptocrat-advantages div.card{
+	    padding-top: 50px;
+	    border: none!important;
+	}
+	.merchcustom__header{
+	    padding: 20px;
+	}
+	.merchitems_card img{
+	    height: 150px;
+	}
+}
+
+@media (max-width: 575px){
+	.cryptocrat-advantages .card.card_one{
+	    padding-right: 0px;
+	    padding-left: 0px;
+	}
+	.cryptocrat-advantages .card.card_three{
+	    padding-left: 0px;
+	    padding-right: 0px;
+	}
+	.crypto-explained h4{
+	    font-size: 2.5rem;
+	    line-height: 50px;
+	}
+	.crypto-explained{
+	    padding: 30px;
+	}
+	#footer__top__imagecol{
+		display: none;
+	}
+	.footer__top {
+	    padding-left: 0px;
+	    padding-right: 0px;
+	    padding-top: 20px;
+	}
+	.footer__top p#short_note{
+	    padding: 5px;
+	    font-size: 14px;
+	}
+	.privacydiv_container{
+	    padding-left: 25px;
+	    padding-right: 25px;
+	}
+
+	.helpcenter_container{
+		padding: 15px;
+		padding-bottom: 50px;
+	}
+	.helpcenter_bodycard{
+	    padding: 5px;
+	}
+	.helpcenter_bodycard h1{
+	    font-size: 2rem;
+	}
+	.customhelp_card{
+	    padding-top: 40px;
+	    width: 180px;
+	}
+	.blog_header{
+	    padding: 40px;
+	    padding-left: 20px;
+	    padding-right: 20px;
+	}
+	.blog_header h1{
+	    font-size: 2rem;
+	}
+	.blog_header p{
+		font-size: 14px;
+	}
+	.blog_header div.card input{
+	    font-size: 13px;
+	    padding: 20px;
+	    padding-left: 15px;
+	    padding-right: 15px;
+	}
+	.blog_header div.card select{
+	    font-size: 13px;
+	}
+	.blog_header div.card button{
+	    font-size: 13px;
+	}
+}
+
+@media (max-width: 568px){
+	#universe-wrappercol h4{
+	    font-size: 2.2rem;
+	}
+	#universe-wrappercol p#description{
+	    font-size: 14px;
+	    width: 90%;
+	    margin-top: -15px;
+	}
+	#universe-wrappercol .about__card p{
+	    font-size: 20px;
+	    padding: 15px;
+	    padding-left: 20px;
+	    padding-right: 20px;
+	}
+	#universe-wrappercol .about__card img{
+	    height: 190px;
+	}
+	#universe-wrappercol{
+	    padding: 0px;
+	}
+	.about__header h1{
+	    padding: 30px;
+	    font-size: 2.6rem;
+	}
+}
+
+@media (max-width: 500px){
+	#header_text1{
+	    font-size: 40px;
+	}
+	#header_text2{
+	    font-size: 35px;
+	}
+	#subheader_text{
+	    font-size: 14px;
+	}
+	.about__header h1{
+	    padding: 0px;
+	    padding-top: 30px;
+	    padding-bottom: 30px;
+	    font-size: 2.5rem;
+	}
+	.about__header img{
+	    width: 100%;
+	}
+	.about_contentdiv h1{
+	    font-size: 2rem;
+	}
+	.about_contentdiv p{
+	    font-size: 14px;
+	}
+	.about__journeydiv h1{
+	    font-size: 2rem;   
+	}
+	.about__journeydiv p{
+	    font-size: 14px; 
+	}
+	.about__ceodiv .columns:nth-child(2) p{
+	    font-size: 14px;
+	    line-height: 30px;
+	}
+	.about__ceodiv .columns:nth-child(2) p span{
+	    width: 100%;
+	    font-size: 25px;
+	}
+	.blog_header div.card div#formcard_align{
+	    display: block!important;
+	}
+	.blog_header div.card div#form_selectbutton{
+		display: flex;
+	}
+	.blog_header div.card input{
+		display: block;
+		width: 100%;
+		margin-bottom: 10px;
+		border-width: 1px;
+	}
+	.blog_header div.card select{
+		display: inline-flex;
+		width: 100%;
+		border-width: 1px;
+		padding: 10px;
+	}
+	.blog_header div.card button{
+		display: inline-flex;
+		padding: 12px;
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+	.newestblog_card img.blogpost_img{
+		height: 200px;
+	}
+	.merchcustom__header h1{
+	    font-size: 50px;
+	}
+	.merchcustom__header h2{
+	    font-size: 100px;
+	}
+	.merchcustom__header p#merch_headerdescription{
+	    font-size: 18px;
+	}
+	.merchcustom__header a#merchcollection_link{
+	    padding-left: 50px;
+	    padding-right: 50px;
+	}
+	.merchitems_card img{
+	    height: 80px;
+	}
+}
+
+@media (max-width: 450px){
+	#about-cryptocol h4{
+	    font-size: 2rem;
+	    line-height: 45px;
+	}
+	#universe-wrappercol h4{
+	    font-size: 2rem;
+	    line-height: 45px;
+	}
+	#universe-wrappercol .about__card img{
+	    height: 170px;
+	}
+	#universe-wrappercol .about__card p{
+	    font-size: 18px;
+	    padding: 15px;
+	    padding-left: 20px;
+	    padding-right: 20px;
+	}
+	#about-cryptocol img.gateway_img{
+	    width: 90%;
+	}
+	.crypto-explained h4{
+	    font-size: 2.3rem;
+	    line-height: 50px;
+	}
+	.crypto-explained p#description{
+		font-size: 13px;
+	}
+	.crypto-explained{
+	    padding: 10px;
+	    padding-top: 30px;
+	    padding-bottom: 30px;
+	}
+	.crypto_benefitscard p{
+	    font-size: 13px;
+	}
+	.notfound__card div:first-child img{
+	    width: 40%;
+	    margin-bottom: 0px;
+	}
+	.notfound__card div:first-child h3{
+	    font-size: 40px;
+	}
+}
+
+@media (max-width: 425px){
+	.about__ceodiv .columns img{
+	    width: 100%;
+	    height: 350px;
+	}
+	.about__ceodiv .columns:nth-child(2) p span{
+	    font-size: 20px;
+	}
+}
+
+@media (max-width: 390px){
+	#about-cryptocol h4{
+	    font-size: 1.8rem;
+	    line-height: 45px;
+	}
+	#universe-wrappercol h4{
+	    font-size: 1.8rem;
+	    line-height: 45px;
+	}
+}
+
+@media (max-width: 375px){
+	#header_text1{
+	    font-size: 35px;
+	}
+	#header_text2{
+	    font-size: 30px;
+	}
+	#subheader_text{
+	    font-size: 13px;
+	}
+	.custom__nav{
+		padding: 0px;
+	    padding-left: 10px;
+	    padding-right: 10px;
+	}
+	.custom__nav .navbar-brand{
+	    padding-left: 5px;
+	    padding-right: 0px;
+	}
+	#universe-wrappercol .about__card img{
+	    height: 150px;
+	}
+	.custom__header .app__buttons a{
+	    padding: 13px;
+	    padding-left: 23px;
+	    padding-right: 23px;
+	    font-size: 14px;
+	}
+	.custom__header .app__buttons a svg{
+	    margin-right: 5px;
+	}
+	.custom__header .app__buttons a{
+	    margin-left: 5px;
+	}
+	.crypto-explained h4{
+	    font-size: 2rem;
+	}
+	.crypto_benefitscard p{
+	    font-size: 12px;
+	}
+	.crypto_benefitscard p span{
+		font-size: 17px!important;
+	}
+	.universe-wrapper{
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	#about-cryptocol{
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.crypto-explained{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.crypto_benefitscard{
+		border: 2px solid var(--deep-grey);
+	}
+	.about__header h1{
+	    padding: 0px;
+	    padding-bottom: 30px;
+	    font-size: 2rem;
+	}
+	.about__ceodiv .columns:nth-child(2) p{
+	    padding: 30px;
+	}
+	.about__ceodiv .columns:nth-child(2) p span{
+	    padding-left: 20px;
+	    padding-right: 20px;
+	}
+	.privacy_header h1{
+	    font-size: 2rem;
+	}
+	.helpcenter_bodycard form#helpcenter_form input{
+	    font-size: 13px;
+	    padding: 20px;
+	    padding-left: 14px;
+	    padding-right: 14px;
+	    padding-top: 21px;
+	}
+	.helpcenter_bodycard form#helpcenter_form button{
+	    padding: 4px 15px 4px 15px;
+	    font-size: 14px;
+	}
+	.blog_header{
+	    padding: 40px;
+	    padding-left: 10px;
+	    padding-right: 10px;
+	}
+	.blog_header h1{
+	    font-size: 1.5rem;
+	}
+	.blog_header p{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	.blog_card .blog_cardbody{
+	    padding: 20px;
+	    padding-bottom: 30px;
+	}
+	.merchcard_col{
+		width: 100%!important;
+		display: block!important;
+		max-width: 100%!important;
+		-ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.merchitems_card img{
+	    height: 150px;
+	}
+	.merchcustom__header h1{
+	    font-size: 50px;
+	}
+	.merchcustom__header h2{
+	    font-size: 80px;
+	}
+	.merchcustom__header p#merch_headerdescription{
+	    font-size: 17px;
+	}
+	.merchcustom__header a#merchcollection_link{
+	    padding-left: 40px;
+	    padding-right: 40px;
+	}
+}
+
+@media (max-width: 340px){
+	.merchcustom__header h1{
+	    font-size: 40px;
+	}
+	.merchcustom__header h2{
+	    font-size: 70px;
+	}
+	.merchcustom__header p#merch_headerdescription{
+	    font-size: 15px;
+	    width: 100%;
+	}
+	.merchcustom__header a#merchcollection_link{
+	    padding-left: 60px;
+	    padding-right: 60px;
+	}
+}
+
+@media (max-width: 330px){
+	#header_text1{
+	    font-size: 28px;
+	}
+	#header_text2{
+	    font-size: 26px;
+	}
+	.custom__header .app__buttons{
+		display: inline-flex;
+	}
+	.about__ceodiv .columns:nth-child(2) p{
+	    padding: 20px;
+	}
+	.notfound__card{
+	    padding: 10px;
+	}
+	.notfound__card div:first-child img{
+	    width: 50%;
+	}
+	.notfound__card div:first-child h3{
+	    font-size: 35px;
+	}
+	.app__buttons{
+		padding-left: 30px;
+	}
+}
+
+
+/* Tech Lang Duty */
