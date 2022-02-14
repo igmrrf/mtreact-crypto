@@ -20,6 +20,11 @@ const DropdownNav = ({closeDropdown}) => {
 					</Link>
 				</li>
 				<li className="nav-item">
+					<Link to="/merch" className="" id="blog_nav">
+						Merch
+					</Link>
+				</li>
+				<li className="nav-item">
 					<a
 						href="htttps://wa.me/+2348137045484"
 						className=""

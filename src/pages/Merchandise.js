@@ -24,12 +24,14 @@ const Merchandise = () => {
 				<div className="jumbotron merchcustom__header">
 					<div className="row">
 						<div className="col-12">
-							<h1>Cryptocrat</h1>
-							<h2>Merch!</h2>
-							<p id="merch_headerdescription">
-								Stand out from the crowd with our unique 
-								collection for crypto enthusiasts.
-							</p>
+							<div data-aos="fade-in">
+								<h1>Cryptocrat</h1>
+								<h2>Merch!</h2>
+								<p id="merch_headerdescription">
+									Stand out from the crowd with our unique 
+									collection for crypto enthusiasts.
+								</p>
+							</div>
 {/*							<br /><br />
 							<Link to='/merch' id="merchcollection_link">
 								View Collection
