@@ -13,6 +13,8 @@ const Footer = ({notHome, merchPage}) => {
 		    		src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850955/footer_headimage_bwlg53.jpg`}
 		    		alt="footer_headimg"
 		    		className="img-fluid footer_headimg"
+		    		width="640"
+		    		height="360"
 		    	/>
 	    	</div>
 		}
@@ -48,6 +50,8 @@ const Footer = ({notHome, merchPage}) => {
 	                            	alt="bicoinimg"
 	                            	className="w-100"
 	                            	data-aos="flip-left"
+						    		width="640"
+						    		height="200"
 	                            />
 	                        </div>
 	                    </div>

@@ -31,6 +31,8 @@ const HeaderCard = () => {
 						upload/v1644850950/gift_card_adugln.png`}
 					alt="mobiledevice_svg"
 					data-aos="fade-down"
+				    width="640"
+				    height="360"
 				/>
 			</div>
 		</div>

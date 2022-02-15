@@ -49,6 +49,8 @@ const Home = () => {
 								src={`https://res.cloudinary.com/cryptocrat/image/upload/
 									v1644850946/photo-1529156069898-49953e39b3ac_d1j4op.jpg`}
 								alt="aboutus_picture"
+					    		width="640"
+					    		height="360"
 							/>
 							<p>
 								<Link to="/about">
@@ -82,6 +84,8 @@ const Home = () => {
 								v1644850944/payment_gateway_wtkou4.svg`}
 							alt="payment gateway"
 							className="gateway_img"
+				    		width="640"
+				    		height="360"
 						/>
 					</div>
 					<div className="col-xl-6 col-lg-6 col-md-6 col-sm-5 
@@ -92,6 +96,8 @@ const Home = () => {
 							alt="globe_img"
 							className="globe_img"
 							data-aos="flip-left"
+				    		width="640"
+				    		height="360"
 						/>
 					</div>
 				</div>
@@ -105,6 +111,8 @@ const Home = () => {
 							className="img-fluid crypto_explainedImg"
 							alt="CryptoDevice"
 							data-aos="flip-right"
+				    		width="640"
+				    		height="360"
 						/>
 					</div>
 					<div className="col-xl-8 col-lg-8 col-md-7 col-12">
