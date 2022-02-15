@@ -32,7 +32,7 @@ const App = () => {
 
 	return (
 		<div className="container-fluid p-0" id="application_container">
-			<Suspense fallback={LoadingCard}>
+			<Suspense fallback={<LoadingCard />}>
 			<Switch>
 				<Route path="/" exact>
 					<Home />

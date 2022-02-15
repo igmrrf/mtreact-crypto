@@ -11,6 +11,7 @@
       name="description"
       content="Crypto Site"
     />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -20,6 +21,17 @@
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
+    <script>
+      if ('serviceWorker' in navigator){
+        window.addEventListener('load', function(){
+          navigator.serviceWorker.register('serviceWorker.js').then(function(registration){
+            console.log('ServiceWorker registration was successful with scope: ', registration.scope);
+          }, function(err){
+            console.log('ServiceWorker registration failed: ', err)
+          })
+        })
+      }
+    </script>
     <script preconnect type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="fad090c3-617b-428e-aba9-a6e21aa2e425";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
   </body>
 </html>
