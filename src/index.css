@@ -702,7 +702,7 @@ img.footer_headimg{
 
 /* About Section Styling */
 .about__header{
-    background-image: url('./assets/img/about_headerbg.svg');
+    background-image: url('https://res.cloudinary.com/cryptocrat/image/upload/v1644850940/about_headerbg_iuqayz.svg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -729,7 +729,7 @@ img.footer_headimg{
 */}
 
 .about_contentdiv{
-    background-image: url('./assets/img/about_contentbg.png');
+    background-image: url('https://res.cloudinary.com/cryptocrat/image/upload/v1644850947/about_contentbg_mfolml.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -751,7 +751,7 @@ img.footer_headimg{
 }
 
 .about__journeydiv{
-    background-image: url('./assets/img/about_journeybg.png');
+    background-image: url('https://res.cloudinary.com/cryptocrat/image/upload/v1644850947/about_journeybg_d0go05.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -775,7 +775,7 @@ img.footer_headimg{
     padding: 0px;
 }
 
-.about__ceodiv .columns:nth-child(2){
+/*.about__ceodiv .columns:nth-child(2){
     background-image: url('./assets/img/about_ceobg.svg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -783,7 +783,7 @@ img.footer_headimg{
     background-color: var(--accent-color);
     align-items: center;
     display: flex;
-}
+}*/
 .about__ceodiv .columns img{
     height: 500px;
     object-fit: cover;

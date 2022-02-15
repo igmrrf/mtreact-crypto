@@ -39,7 +39,7 @@ const About = () => {
 					</div>
 					<div className="col-xl-4 col-lg-4 col-md-4 text-center">
 						<img
-							src={https://res.cloudinary.com/cryptocrat/image/upload/v1644850953/logo_bozhqb.png}
+							src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850953/logo_bozhqb.png`}
 							alt="cryptocrat_logo"
 							className="img-fluid"
 						/>
