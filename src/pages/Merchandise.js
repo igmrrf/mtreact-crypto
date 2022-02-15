@@ -1,10 +1,10 @@
 import Navbar from "../components/nav/Navbar";
 import Footer from "../components/nav/Footer";
-import HeroImg from "../assets/img/merch_headimg.png";
-import MerchImg1 from "../assets/img/merch_shirt.png";
-import MerchImg2 from "../assets/img/merch_jean.png";
-import MerchImg3 from "../assets/img/merch_jacket.png";
-import MerchImg4 from "../assets/img/merch_hoodies.png";
+// import HeroImg from "../assets/img/merch_headimg.png";
+// import MerchImg1 from "../assets/img/merch_shirt.png";
+// import MerchImg2 from "../assets/img/merch_jean.png";
+// import MerchImg3 from "../assets/img/merch_jacket.png";
+// import MerchImg4 from "../assets/img/merch_hoodies.png";
 import { Link } from "react-router-dom";
 import { useEffect } from "react";
 
@@ -18,7 +18,6 @@ const Merchandise = () => {
 		<>
 			<div
 				className="merch__header"
-				style={{backgroundImage: `url(${HeroImg})`}}
 			>
 				<Navbar />
 				<div className="jumbotron merchcustom__header">
@@ -44,7 +43,7 @@ const Merchandise = () => {
 										data-aos="flip-left">
 										<div className="card merchitems_card">
 											<img
-												src={MerchImg1}
+												src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850940/merch_shirt_ponhwa.png`}
 												alt="merchshirt_image"
 											/>
 											<p>shirt</p>
@@ -57,7 +56,7 @@ const Merchandise = () => {
 										data-aos="flip-right">
 										<div className="card merchitems_card">
 											<img
-												src={MerchImg2}
+												src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850955/merch_jean_e68680.png`}
 												alt="merchjoggers_image"
 											/>
 											<p>joggers</p>
@@ -70,7 +69,7 @@ const Merchandise = () => {
 										data-aos="flip-left">
 										<div className="card merchitems_card">
 											<img
-												src={MerchImg3}
+												src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850953/merch_jacket_equrmy.png`}
 												alt="merchjacket_image"
 											/>
 											<p>jacket</p>
@@ -83,7 +82,7 @@ const Merchandise = () => {
 										data-aos="flip-right">
 										<div className="card merchitems_card">
 											<img
-												src={MerchImg4}
+												src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850954/merch_hoodies_ess9xe.png`}
 												alt="merchhoodies_image"
 											/>
 											<p>hoodies</p>

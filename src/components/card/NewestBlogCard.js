@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import NewBlogImg from "../../assets/img/newblog_img.webp";
+// import NewBlogImg from "../../assets/img/newblog_img.webp";
 import * as BsIcons from "react-icons/bs";
 
 const NewestBlogCard = () => {
@@ -8,7 +8,7 @@ const NewestBlogCard = () => {
 			<div className="card newestblog_card" data-aos="flip-left">
 				<Link to="/blog/content101" id="content">
 					<img
-						src={NewBlogImg}
+						src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850944/newblog_img_dh28la.webp`}
 						alt="newest_blog_header_image"
 						className="blogpost_img"
 						layout="responsive"

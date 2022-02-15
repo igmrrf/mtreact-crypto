@@ -1361,6 +1361,7 @@ h1#auth__brand a{
     background-size: contain;
     background-position: right;
     background-color: black;
+    background-image: url('https://res.cloudinary.com/cryptocrat/image/upload/v1644850958/merch_headimg_hdoz61.png');
 }
 .merchcustom__header{
     box-shadow: none;

@@ -10,8 +10,7 @@ const Footer = ({notHome, merchPage}) => {
 			notHome?'':
 			<div className="w-100">
 		    	<img
-		    		src={`https://res.cloudinary.com/cryptocrat/image/upload/
-		    			v1644850955/footer_headimage_bwlg53.jpg`}
+		    		src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850955/footer_headimage_bwlg53.jpg`}
 		    		alt="footer_headimg"
 		    		className="img-fluid footer_headimg"
 		    	/>
@@ -45,8 +44,7 @@ const Footer = ({notHome, merchPage}) => {
 	                    >
 	                        <div className="footer__top__image">
 	                            <img
-	                            	src={`https://res.cloudinary.com/cryptocrat/image/
-	                            		upload/v1644850950/bitcoin_bkffew.svg`}
+	                            	src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850950/bitcoin_bkffew.svg`}
 	                            	alt="bicoinimg"
 	                            	className="w-100"
 	                            	data-aos="flip-left"

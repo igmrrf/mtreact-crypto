@@ -1,9 +1,9 @@
 import Navbar from "../components/nav/Navbar";
 import Footer from "../components/nav/Footer";
-import AboutImg from "../assets/img/photo-1529156069898-49953e39b3ac.jpeg";
-import AboutLogo from "../assets/img/logo.png";
-import JourneyShip from "../assets/img/journey_ship.png";
-import MedalImg from "../assets/img/medal.png";
+// import AboutImg from "../assets/img/photo-1529156069898-49953e39b3ac.jpeg";
+// import AboutLogo from "../assets/img/logo.png";
+// import JourneyShip from "../assets/img/journey_ship.png";
+// import MedalImg from "../assets/img/medal.png";
 import { useEffect } from "react";
 
 const About = () => {
@@ -21,7 +21,7 @@ const About = () => {
 			<div className="jumbotron about__header">
 				<h1>Meet the Magicians</h1>
 				<img
-					src={AboutImg}
+					src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850946/photo-1529156069898-49953e39b3ac_d1j4op.jpg`}
 					alt="cryptocrat_humans"
 				/>
 			</div>
@@ -39,7 +39,7 @@ const About = () => {
 					</div>
 					<div className="col-xl-4 col-lg-4 col-md-4 text-center">
 						<img
-							src={AboutLogo}
+							src={https://res.cloudinary.com/cryptocrat/image/upload/v1644850953/logo_bozhqb.png}
 							alt="cryptocrat_logo"
 							className="img-fluid"
 						/>
@@ -50,7 +50,7 @@ const About = () => {
 				<div className="row">
 					<div className="col-xl-8 col-lg-8 col-md-8">
 						<img
-							src={JourneyShip}
+							src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850950/journey_ship_mnju0n.png`}
 							alt="journey_ship"
 						/>
 						<h1>Our Journey So Far</h1>
@@ -58,7 +58,7 @@ const About = () => {
 					</div>
 					<div className="col-xl-2 col-lg-3 col-md-3 text-center">
 						<img
-							src={MedalImg}
+							src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850953/medal_zcrwrn.png`}
 							alt="cryptocrat_medal"
 							className="img-fluid"
 						/>

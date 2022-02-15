@@ -1,4 +1,4 @@
-import BlogImg from "../../assets/img/blog_img.webp";
+// import BlogImg from "../../assets/img/blog_img.webp";
 import { Link } from "react-router-dom";
 import * as BsIcons from "react-icons/bs";
 
@@ -8,7 +8,7 @@ const BlogCard = () => {
 		<div className="card blog_card" data-aos="fade-up">
 			<Link to="/blog/content112">
 				<img
-					src={BlogImg}
+					src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850947/blog_img_ejrubq.webp`}
 					alt="blogheaderimg"
 					width="640"
 					height="360"
