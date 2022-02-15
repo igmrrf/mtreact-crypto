@@ -95,7 +95,7 @@ const Home = () => {
 								v1644850954/girl_vceyth.svg`}
 							alt="globe_img"
 							className="globe_img"
-							data-aos="flip-left"
+							data-aos="fade-right"
 				    		width="640"
 				    		height="360"
 						/>

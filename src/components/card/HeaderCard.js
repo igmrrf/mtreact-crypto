@@ -27,8 +27,7 @@ const HeaderCard = () => {
 			</div>
 			<div className="mobiledevice_heroImg">
 				<img
-					src={`https://res.cloudinary.com/cryptocrat/image/
-						upload/v1644850950/gift_card_adugln.png`}
+					src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850950/bitcoin_bkffew.svg`}
 					alt="mobiledevice_svg"
 					data-aos="fade-down"
 				    width="640"

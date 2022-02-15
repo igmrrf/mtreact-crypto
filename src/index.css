@@ -281,14 +281,23 @@ p{
 }
 
 .custom__header .mobiledevice_heroImg{
-    width: 37%;
-    padding-top: 80px;
+    width: 35%;
+    padding-top: 20px;
+    text-align: right;
 }
 .custom__header .mobiledevice_heroImg img{
     width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: 100%;
     object-fit: cover;
-    object-position: top;
+    object-position: center;
     filter: drop-shadow(10px 10px 10px #000010);
+    text-align: right;
+    animation-name: bounce_animation;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    transform-origin: 70% 70%;
 }
 
 /* Universe Wrapper Styling */
@@ -331,6 +340,7 @@ p{
     height: 280px;
     object-position: center;
     object-fit: cover;
+    width: 100%;
 }
 #universe-wrappercol .about__card p{
     font-family: var(--proxima);
@@ -1521,4 +1531,25 @@ h1#auth__brand a{
         -webkit-transform: rotate(359deg);
         transform: rotate(359deg);
     }
+}
+
+@keyframes wave-animation {
+    0% { transform: rotate( 0.0deg) }
+   10% { transform: rotate(14.0deg) }
+   20% { transform: rotate(-8.0deg) }
+   30% { transform: rotate(14.0deg) }
+   40% { transform: rotate(-4.0deg) }
+   50% { transform: rotate(10.0deg) }
+   60% { transform: rotate( 0.0deg) }
+  100% { transform: rotate( 0.0deg) }
+}
+
+@keyframes bounce_animation {
+    0%{-webkit-transform: scale(1,1) translateY(0);}
+    10%{-webkit-transform: scale(1.1,.9) translateY(0);}
+    30%{-webkit-transform: scale(.9,1.1) translateY(-60px);}
+    50%{-webkit-transform: scale(1.05,.95) translateY(0);}
+    57%{-webkit-transform: scale(1,1) translateY(-5px);}
+    64%{-webkit-transform: scale(1,1) translateY(0);}
+    100%{-webkit-transform: scale(1,1) translateY(0);}
 }
