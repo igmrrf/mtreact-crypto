@@ -1,5 +1,3 @@
-//import { Link } from "react-router-dom";
-import MobileDeviceImg from "../../assets/img/gift_card.png";
 import * as AiIcons from "react-icons/ai";
 
 const HeaderCard = () => {
@@ -10,8 +8,10 @@ const HeaderCard = () => {
 				<h1 id="header_text1">World's Easiest</h1>
 				<h2 id="header_text2">Crypto Exchange</h2>
 				<p id="subheader_text">
-					<strong>Join millions of people globally, to buy and sell 
-						cryptocurrencies the secure and seamless way.</strong>
+					<strong>
+						Join millions of people globally, to buy and sell 
+						cryptocurrencies the secure and seamless way.
+					</strong>
 				</p>
 				<br />
 				<div className="app__buttons">
@@ -27,7 +27,8 @@ const HeaderCard = () => {
 			</div>
 			<div className="mobiledevice_heroImg">
 				<img
-					src={MobileDeviceImg}
+					src={`https://res.cloudinary.com/cryptocrat/image/
+						upload/v1644850950/gift_card_adugln.png`}
 					alt="mobiledevice_svg"
 					data-aos="fade-down"
 				/>

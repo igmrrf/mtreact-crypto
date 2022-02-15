@@ -293,6 +293,7 @@ p{
 
 /* Universe Wrapper Styling */
 .universe-wrapper{
+    background-image: url('https://res.cloudinary.com/cryptocrat/image/upload/v1644850950/cryptouniverse_iz1gsl.svg');
     background-color: var(--white);
     padding: 150px;
     background-repeat: no-repeat;

@@ -1,5 +1,5 @@
-import BitcoinImg from "../../assets/img/bitcoin.svg";
-import FooterHeadImg from "../../assets/img/footer_headimage.jpeg";
+// import BitcoinImg from "../../assets/img/bitcoin.svg";
+// import FooterHeadImg from "../../assets/img/footer_headimage.webp";
 import { Link } from "react-router-dom";
 // import CompanyLogo from "../../assets/img/app_logo.svg";
 
@@ -10,7 +10,8 @@ const Footer = ({notHome, merchPage}) => {
 			notHome?'':
 			<div className="w-100">
 		    	<img
-		    		src={FooterHeadImg}
+		    		src={`https://res.cloudinary.com/cryptocrat/image/upload/
+		    			v1644850955/footer_headimage_bwlg53.jpg`}
 		    		alt="footer_headimg"
 		    		className="img-fluid footer_headimg"
 		    	/>
@@ -44,7 +45,8 @@ const Footer = ({notHome, merchPage}) => {
 	                    >
 	                        <div className="footer__top__image">
 	                            <img
-	                            	src={BitcoinImg}
+	                            	src={`https://res.cloudinary.com/cryptocrat/image/
+	                            		upload/v1644850950/bitcoin_bkffew.svg`}
 	                            	alt="bicoinimg"
 	                            	className="w-100"
 	                            	data-aos="flip-left"

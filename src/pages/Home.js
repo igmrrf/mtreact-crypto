@@ -1,12 +1,12 @@
 import Navbar from "../components/nav/Navbar";
 import Footer from "../components/nav/Footer";
-import CryptoUniverseImg from "../assets/img/cryptouniverse.svg";
+// import CryptoUniverseImg from "../assets/img/cryptouniverse.svg";
 import HeaderCard from "../components/card/HeaderCard";
-import AboutImg from "../assets/img/photo-1529156069898-49953e39b3ac.jpeg";
-import PaymentGateway from "../assets/img/payment_gateway.svg";
-import GlobeImg from "../assets/img/girl.svg";
+// import AboutImg from "../assets/img/photo-1529156069898-49953e39b3ac.jpeg";
+// import PaymentGateway from "../assets/img/payment_gateway.svg";
+// import GlobeImg from "../assets/img/girl.svg";
 import { Link } from "react-router-dom";
-import CryptoDevice from "../assets/img/crypto_device.png";
+// import CryptoDevice from "../assets/img/crypto_device.webp";
 import * as RiIcons from "react-icons/ri";
 import { useEffect } from "react";
 
@@ -27,8 +27,7 @@ const Home = () => {
 			</header>
 			<div className="container-fluid">
 				<div
-					className="row universe-wrapper"
-					style={{backgroundImage: `url(${CryptoUniverseImg})`}}>
+					className="row universe-wrapper">
 					<div className="col-xl-8 col-lg-9 col-md-9 col-12"
 						id="universe-wrappercol">
 						<h4>Cryptocrat Universe, 
@@ -47,7 +46,8 @@ const Home = () => {
 							data-aos="fade-in"
 						>
 							<img
-								src={AboutImg}
+								src={`https://res.cloudinary.com/cryptocrat/image/upload/
+									v1644850946/photo-1529156069898-49953e39b3ac_d1j4op.jpg`}
 								alt="aboutus_picture"
 							/>
 							<p>
@@ -78,7 +78,8 @@ const Home = () => {
 						</Link>
 						<br />
 						<img
-							src={PaymentGateway}
+							src={`https://res.cloudinary.com/cryptocrat/image/upload/
+								v1644850944/payment_gateway_wtkou4.svg`}
 							alt="payment gateway"
 							className="gateway_img"
 						/>
@@ -86,7 +87,8 @@ const Home = () => {
 					<div className="col-xl-6 col-lg-6 col-md-6 col-sm-5 
 						col-12 order-sm-last order-first">
 						<img
-							src={GlobeImg}
+							src={`https://res.cloudinary.com/cryptocrat/image/upload/
+								v1644850954/girl_vceyth.svg`}
 							alt="globe_img"
 							className="globe_img"
 							data-aos="flip-left"
@@ -98,7 +100,8 @@ const Home = () => {
 					crypto-explained">
 					<div className="col-xl-3 col-lg-4 col-md-5">
 						<img
-							src={CryptoDevice}
+							src={`https://res.cloudinary.com/cryptocrat/image/upload/
+								v1644850952/crypto_device_vdnrqt.webp`}
 							className="img-fluid crypto_explainedImg"
 							alt="CryptoDevice"
 							data-aos="flip-right"
