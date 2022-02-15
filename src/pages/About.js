@@ -23,6 +23,7 @@ const About = () => {
 				<img
 					src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850946/photo-1529156069898-49953e39b3ac_d1j4op.jpg`}
 					alt="cryptocrat_humans"
+					data-aos="fade-right"
 				/>
 			</div>
 			<div className="jumbotron about_contentdiv">
@@ -42,6 +43,7 @@ const About = () => {
 							src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850953/logo_bozhqb.png`}
 							alt="cryptocrat_logo"
 							className="img-fluid"
+							data-aos="fade-in"
 						/>
 					</div>
 				</div>
@@ -52,6 +54,7 @@ const About = () => {
 						<img
 							src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850950/journey_ship_mnju0n.png`}
 							alt="journey_ship"
+							data-aos="fade-top"
 						/>
 						<h1>Our Journey So Far</h1>
 						<p>Highlighting Our Milestones And Major Accomplishments</p>
@@ -61,6 +64,7 @@ const About = () => {
 							src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850953/medal_zcrwrn.png`}
 							alt="cryptocrat_medal"
 							className="img-fluid"
+							data-aos="fade-right"
 						/>
 					</div>
 				</div>
