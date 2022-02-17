@@ -103,7 +103,7 @@ const Home = () => {
 
 				<div className="row d-flex justify-content-center 
 					crypto-explained">
-					<div className="col-xl-3 col-lg-4 col-md-5">
+					<div className="col-xl-3 col-lg-4 col-md-5 col-sm-6 col-8">
 						<img
 							src={`https://res.cloudinary.com/cryptocrat/image/upload/
 								v1644850952/crypto_device_vdnrqt.webp`}
