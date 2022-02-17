@@ -105,8 +105,7 @@ const Home = () => {
 					crypto-explained">
 					<div className="col-xl-3 col-lg-4 col-md-5 col-sm-6 col-8">
 						<img
-							src={`https://res.cloudinary.com/cryptocrat/image/upload/
-								v1644850952/crypto_device_vdnrqt.webp`}
+							src={`https://crypto.com/static/defi-2c236a0a49cff7cf950c83b008b87b4a.png`}
 							className="img-fluid crypto_explainedImg"
 							alt="CryptoDevice"
 							data-aos="flip-right"
