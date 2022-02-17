@@ -13,7 +13,7 @@ import { useEffect } from "react";
 const Home = () => {
 
 	useEffect(() => {
-		window.scrollTo(0,0);
+		// window.scrollTo(0,0);
 	}, []);
 	
 	return (
@@ -30,8 +30,8 @@ const Home = () => {
 					className="row universe-wrapper">
 					<div className="col-xl-8 col-lg-9 col-md-9 col-12"
 						id="universe-wrappercol">
-						<h4>Cryptocrat Universe, 
-						<span>Crypto is Oxygen To Us</span></h4>
+						<h4>Coins & Gifts 
+						<span>To The Crypto Rescue</span></h4>
 						<br />
 						<p id="description">We like to think of ourselves as 
 							superheroes here at Cryptocrat. We aren’t in the 
@@ -46,8 +46,7 @@ const Home = () => {
 							data-aos="fade-in"
 						>
 							<img
-								src={`https://res.cloudinary.com/cryptocrat/image/upload/
-									v1644850946/photo-1529156069898-49953e39b3ac_d1j4op.jpg`}
+								src={`https://crypto.com/static/exchangeGlobal-cb1534638b50402d13c683fbfe9abf51.png`}
 								alt="aboutus_picture"
 					    		width="640"
 					    		height="360"
@@ -55,7 +54,7 @@ const Home = () => {
 							<p>
 								<Link to="/about">
 									<span id="text">
-										Meet the humans of Cryptocrat
+										Wanna know more about us ?
 									</span> <span id="arrow">⟶</span>
 								</Link>
 							</p>
@@ -67,7 +66,7 @@ const Home = () => {
 					<div className="col-xl-6 col-lg-6 col-md-6 col-sm-7 col-12"
 						id="about-cryptocol" data-aos="fade-down">
 						<h4>
-							Crypto Without The Clutter
+							Buy & Sell Crypto with Confidence
 						</h4>
 						<br />
 						<p id="description">Ever imagined crypto being fun as 
@@ -75,10 +74,10 @@ const Home = () => {
 							created Cryptocrat to do just that. Come on board 
 							and experience crypto the redefined way.
 						</p>
-						<Link to='/start'>
+{/*						<Link to='/start'>
 							Get started for free
 						</Link>
-						<br />
+						<br />*/}
 						<img
 							src={`https://res.cloudinary.com/cryptocrat/image/upload/
 								v1644850944/payment_gateway_wtkou4.svg`}

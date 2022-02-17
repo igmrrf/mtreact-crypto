@@ -5,12 +5,12 @@ const HeaderCard = () => {
 		<>
 		<div className="jumbotron custom__header">
 			<div className="header">
-				<h1 id="header_text1">World's Easiest</h1>
-				<h2 id="header_text2">Crypto Exchange</h2>
+				<h1 id="header_text1">Crypto Moving</h1>
+				<h2 id="header_text2">At Your Own Pace</h2>
 				<p id="subheader_text">
 					<strong>
-						Join millions of people globally, to buy and sell 
-						cryptocurrencies the secure and seamless way.
+						Join thousands of people globally, buy and sell 
+						cryptocurrencies the fast and secure way.
 					</strong>
 				</p>
 				<br />

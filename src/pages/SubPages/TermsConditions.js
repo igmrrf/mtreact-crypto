@@ -25,15 +25,15 @@ const TermsConditions = () => {
 							<h2>Introduction</h2>
 							<p>
 								This Terms of Use (this “Agreement”) is an agreement 
-								between you and Cryptocrat OÜ (“Cryptocrat” or “We”) 
-								and governs your use of all Cryptocrat Services. 
+								between you and Coins & Gifts OÜ (“Coins & Gifts” or “We”) 
+								and governs your use of all Coins & Gifts Services. 
 								You unconditionally accept and agree to be bound 
 								by the terms and conditions in this Terms of Use 
 								including the Privacy Policy as well any applicable 
-								laws and guidelines when you access the Cryptocrat 
-								Platform or use any of the Cryptocrat Services. 
+								laws and guidelines when you access the Coins & Gifts 
+								Platform or use any of the Coins & Gifts Services. 
 								If you disagree with any part hereof, please do 
-								not use the Cryptocrat Platform or any of the Cryptocrat 
+								not use the Coins & Gifts Platform or any of the Coins & Gifts 
 								Services. You should read this Agreement carefully.
 							</p>
 						</div>
@@ -48,22 +48,22 @@ const TermsConditions = () => {
 								<BsIcons.BsBookmarkFill />
 								Our Services
 							</h2>
-							<p>Cryptocrat is a financial technologies services provider 
+							<p>Coins & Gifts is a financial technologies services provider 
 							and acts as such by creating, hosting, maintaining and 
-							providing Cryptocrat Services our website, mobile 
+							providing Coins & Gifts Services our website, mobile 
 							application or API (altogether referred to as 
-								“Cryptocrat Platform”).
+								“Coins & Gifts Platform”).
 							</p>
-							<p>Cryptocrat Services refers to the services which enable 
-							you and other users congregated on the Cryptocrat Platform 
+							<p>Coins & Gifts Services refers to the services which enable 
+							you and other users congregated on the Coins & Gifts Platform 
 							to –</p>
 							<p>(a) Send, receive, buy and sell cryptocurrency such as 
 							bitcoin and Ethereum (“cryptocurrency transactions”) 
-							via a cryptocurrency wallet hosted by Cryptocrat;</p>
+							via a cryptocurrency wallet hosted by Coins & Gifts;</p>
 							<p>(b) pay for bills and services such as airtime,
 							 data, electricity, cable TV (“refill transactions) 
-							 via a fiat wallet hosted by Cryptocrat (altogether 
-							 	referred to as the “Cryptocrat Services”)</p>
+							 via a fiat wallet hosted by Coins & Gifts (altogether 
+							 	referred to as the “Coins & Gifts Services”)</p>
 							<br />
 							<br />
 							<h2>
@@ -71,8 +71,8 @@ const TermsConditions = () => {
 								Eligibility
 							</h2>
 							<p>
-								To be eligible to use or access the Cryptocrat Platform 
-								and the Cryptocrat Services, the following conditions 
+								To be eligible to use or access the Coins & Gifts Platform 
+								and the Coins & Gifts Services, the following conditions 
 								must be met by you –
 							</p>
 
@@ -101,7 +101,7 @@ const TermsConditions = () => {
 							</h2>
 							<p>
 								You hereby acknowledge that in order to use or 
-								access the Cryptocrat Platform or Cryptocrat Services, 
+								access the Coins & Gifts Platform or Coins & Gifts Services, 
 								you must provide us with correct and updated 
 								Personal Information.
 							</p>
@@ -158,7 +158,7 @@ const TermsConditions = () => {
 								Payment Methods
 							</h2>
 							<p>
-								Fiat wallets on the Cryptocrat Platform may be funded 
+								Fiat wallets on the Coins & Gifts Platform may be funded 
 								via Electronic Funds Transfer, Mobile Money or Card 
 								Payments as applicable for the user’s region.
 							</p>
@@ -166,7 +166,7 @@ const TermsConditions = () => {
 								Users in South Africa may fund their fiat wallets via 
 								Visa and MasterCard. If you choose to fund your fiat 
 								wallet using this payment option, you agree that 
-								Cryptocrat’s outlet country at the time of presenting 
+								Coins & Gifts’s outlet country at the time of presenting 
 								payment options to you is South Africa and that the 
 								transaction currency is South African Rand (ZAR).
 							</p>
@@ -177,8 +177,8 @@ const TermsConditions = () => {
 								Responsibility
 							</h2>
 							<p>
-								Cryptocrat takes responsibility for all aspects relating 
-								to the Cryptocrat Services, customer service and support, 
+								Coins & Gifts takes responsibility for all aspects relating 
+								to the Coins & Gifts Services, customer service and support, 
 								and dispute resolution.
 							</p>
 						</div>

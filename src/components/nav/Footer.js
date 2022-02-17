@@ -25,16 +25,16 @@ const Footer = ({notHome, merchPage}) => {
 	                    <div className="col-sm-10">
 	                        <div className="footer__top__logo">
 	                            <Link to="/">
-	                                Cryptocrat
+	                                Coins & Gifts
 	                            </Link>
 	                        </div>
 	                        <br />
 							<p id="short_note">
-	                            Cryptocrat is an alternative payment solutions 
+	                            Coins & Gifts is an alternative payment solutions 
 	                            company that facilitates the easy use of 
 	                            cryptocurrencies for everyday transactions. 
 	                            By harnessing the intrinsic power of Blockchain 
-	                            technology, Cryptocrat is set to make Crypto 
+	                            technology, Coins & Gifts is set to make Crypto 
 	                            easy for mankind, hereby creating a new and 
 	                            sustainable path for the present and future 
 	                            generations.
@@ -79,7 +79,7 @@ const Footer = ({notHome, merchPage}) => {
 										className=""
 										id="about_nav"
 										target="__blank">WhatsApp</a></li>
-	                                <li><Link to="/merch">Cryptocrat Merch</Link></li>
+	                                <li><Link to="/merch">Our Merch</Link></li>
 	                            </ul>
 	                        </div>
 	                    </div>

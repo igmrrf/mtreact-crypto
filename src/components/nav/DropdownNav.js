@@ -5,7 +5,7 @@ const DropdownNav = ({closeDropdown}) => {
 	return (
 		<nav id="dropdown_nav">
 			<p>
-				<span>Cryptocrat</span> 
+				<span>Coins & Gifts</span> 
 				<FaIcons.FaTimes onClick={closeDropdown} />
 			</p>
 			<ul className="navbar-nav">

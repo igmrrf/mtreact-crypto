@@ -30,7 +30,7 @@ const PrivacyPolicy = () => {
 								products, services, information, content, functions, 
 								features and tools (“our Services” or “the Service”) 
 								provided on our website, mobile application or API 
-								(altogether referred to as “Cryptocrat Platform”).
+								(altogether referred to as “Coins & Gifts Platform”).
 								<br />
 								User reserves the right to exercise their privacy 
 								and data protection rights under any applicable 
@@ -56,22 +56,22 @@ const PrivacyPolicy = () => {
 								Furthermore, if any revised version includes a 
 								substantial change in terms, Users shall be informed 
 								via email (sent to the email address specified in 
-									your account), by means of a notice on the Cryptocrat 
+									your account), by means of a notice on the Coins & Gifts 
 								Platform.
 							</p>
 						</div>
 						<br />
 						<div className="single_privacy_div">
 							<h2>Controler</h2>
-							<p>Cryptocrat is the controller and responsible for the 
-								privacy of your personal data on the Cryptocrat Platform.
+							<p>Coins & Gifts is the controller and responsible for the 
+								privacy of your personal data on the Coins & Gifts Platform.
 
 								If you have any questions about this privacy policy or 
 								our privacy practices, please contact us below –
 								<br />
 								Customer Service Desk
-								Email address: <a href="mailto:hello@myCryptocrat.co">
-									hello@myCryptocrat.co</a>
+								Email address: <a href="mailto:hello@myCoins & Gifts.co">
+									hello@myCoins & Gifts.co</a>
 							</p>
 						</div>
 					</div>
@@ -153,11 +153,11 @@ const PrivacyPolicy = () => {
 								<BsIcons.BsBookmarkFill />
 								Third Party Websites
 							</h2>
-							<p>The Cryptocrat Platform may contain links to 
+							<p>The Coins & Gifts Platform may contain links to 
 								third-party websites and applications of 
 								interest, including advertisements and external 
 								services, that are not affiliated with us. Once 
-								you have used these links to leave the Cryptocrat 
+								you have used these links to leave the Coins & Gifts 
 								Platform, any information you provide to these 
 								third parties is not covered by this Privacy 
 								Policy, and we cannot guarantee the safety and 
@@ -176,7 +176,7 @@ const PrivacyPolicy = () => {
 								and security practices and policies of any third 
 								parties, including other sites, services or 
 								applications that may be linked to or from the 
-								Cryptocrat Platform.
+								Coins & Gifts Platform.
 							</p>
 							<br />
 							<br />

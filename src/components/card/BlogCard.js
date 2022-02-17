@@ -26,11 +26,11 @@ const BlogCard = () => {
 					<h5 className="blog_cardtitle">
 						<Link to="/blog/content112">
 							The future of crypto in Africa is promising
-							- CEO CryptoSS says...
+							- CEO Coins & Gifts says...
 						</Link>
 					</h5>
 					<p className="blog_description">
-						Knowing CryptoSS, you should know that we are at 
+						Knowing Coins & Gifts, you should know that we are at 
 						the forefront of every conversation and innovation 
 						happening in our industry...
 					</p>

@@ -20,7 +20,7 @@ const Navbar = ({notHome, subPage}) => {
 					<Link
 						className="navbar-brand"
 						to="/"
-					>Crypto<span>crat</span></Link>
+					>Coins<span> & </span>Gifts</Link>
 					<nav id="first">
 						<ul className="navbar-nav">
 							<li className="nav-item">

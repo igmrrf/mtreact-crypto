@@ -24,7 +24,7 @@ const Merchandise = () => {
 					<div className="row">
 						<div className="col-12">
 							<div data-aos="fade-in">
-								<h1>Cryptocrat</h1>
+								<h1>Coins & Gifts</h1>
 								<h2>Merch!</h2>
 								<p id="merch_headerdescription">
 									Stand out from the crowd with our unique 

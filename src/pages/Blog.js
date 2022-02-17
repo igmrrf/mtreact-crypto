@@ -18,7 +18,7 @@ const Blog = () => {
 				notHome={true}
 			/>
 			<div className="jumbotron blog_header">
-				<h1>The Cryptocrat Blog</h1>
+				<h1>Coins & Gifts Blog</h1>
 				<p>Stories from the easiest and most 
 					trusted place to buy, sell, and 
 					use crypto

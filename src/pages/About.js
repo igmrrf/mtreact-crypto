@@ -19,9 +19,9 @@ const About = () => {
 			/>
 
 			<div className="jumbotron about__header">
-				<h1>Meet the Magicians</h1>
+				<h1>* The Crypto King *</h1>
 				<img
-					src={`https://res.cloudinary.com/cryptocrat/image/upload/v1644850946/photo-1529156069898-49953e39b3ac_d1j4op.jpg`}
+					src={`https://crypto.com/static/exchangeGlobal-cb1534638b50402d13c683fbfe9abf51.png`}
 					alt="cryptocrat_humans"
 					data-aos="fade-right"
 				/>
@@ -29,12 +29,12 @@ const About = () => {
 			<div className="jumbotron about_contentdiv">
 				<div className="row">
 					<div className="col-xl-8 col-lg-8 col-md-8">
-						<h1>Who are Cryptans?</h1>
+						<h1>Who are We?</h1>
 						<p>We’re a bunch of misfits who believe that crypto can be 
 							simplified into its easiest form. Together, 
 							we have created a really interesting place to work. 
 							From our lollipop moments to our ambiance and work ethics
-							that encourage growth, Cryptocrat has the best company 
+							that encourage growth, Coins & Gifts has the best company 
 							culture style in Africa.
 						</p>
 					</div>
