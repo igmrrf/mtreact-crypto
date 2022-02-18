@@ -1,13 +1,6 @@
 let CACHE_NAME = 'cryptocrat_cache';
 const urlsToCache = [
 	'/',
-	'/about',
-	'/blog',
-	'/privacy-policy',
-	'/terms-of-service',
-	'/help-center',
-	'/merch',
-	'index.html',
 	'https://res.cloudinary.com/iodiary/raw/upload/v1641255618/fonts/blanka_naxhhv.otf',
 	'https://res.cloudinary.com/iodiary/raw/upload/v1641255622/fonts/proxima_akhtyl.otf',
 	'https://res.cloudinary.com/iodiary/raw/upload/v1641255621/fonts/phantom_wxqtkb.otf',
